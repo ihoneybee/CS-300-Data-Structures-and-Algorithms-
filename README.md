@@ -1,1 +1,3 @@
 # CS-300-Data-Structures-and-Algorithms-
+
+Throughout this course, I worked on developing an academic advising program that organizes and retrieves course information. I compared vectors, hash tables, and binary search trees to understand how each affects runtime, memory usage, and efficiency. One challenge was understanding the differences between these structures, which I addressed by breaking down their operations and comparing their performance. These projects taught me the importance of planning and selecting appropriate data structures before writing code. Overall, I learned how to develop programs that are more efficient, organized, readable, and easier to maintain.
